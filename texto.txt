@@ -1,0 +1,4 @@
+Título -->color:#C262AF;
+Fondo -->background: #F2F2F2;
+box-shadow: 0 0 20px #bca1b6;
+(edited)
